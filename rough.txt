@@ -1,0 +1,156 @@
+<div class="home"></div>
+			<div class="intro">
+				<h2>***Event1****</h2>
+				<h2><TAGLINE></h2>
+				<hr>
+				<div class="date">
+					<span class="text"><b>03 April 2014</b><span>
+				</div>
+				<div class="place">
+					<span class="text"><b>San Francisco</b><span>
+				</div>
+				<div class="button text cursor">
+					<button class="button cursor">Get Tickets</button>
+				</div>
+			</div>
+		
+		<br><br><br><br>
+		<div class="the_conference">
+			<div class="the_conference_elements">
+				<h2>***Event2****</h2>
+				<h2><TAGLINE></h2>
+				<hr>
+				<div class="date">
+					<span class="text"><b>03 April 2014</b><span>
+				</div>
+				<div class="place">
+					<span class="text"><b>San Francisco</b><span>
+				</div>
+				<div class="button text cursor">
+					<button class="button cursor" style="border:2px solid black; padding:10px">Get Tickets</button>
+				</div>
+			</div>
+		</div>
+		
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><!--<br>--><br>
+		<div class="about home">
+			<div class="intro alter_img">
+				<h2>***Event3****</h2>
+				<h2><TAGLINE></h2>
+				<hr>
+				<div class="date">
+					<span class="text"><b>03 April 2014</b><span>
+				</div>
+				<div class="place">
+					<span class="text"><b>San Francisco</b><span>
+				</div>
+				<div class="button text cursor">
+					<button class="button cursor" style="border 2px solid black">Get Tickets</button>
+				</div>
+			</div>
+		</div>
+		
+		<!--<div class="count_home home">
+			<br><br>
+			<div class="count">
+				<table>
+					<tr>
+						<th>930</th>
+						<th>250</th>
+						<th>40</th>
+						<th>60</th>
+					</tr>
+					
+					<tr>
+						<td>Participants</td>
+						<td>Topics</td>
+						<td>Session</td>
+						<td>Speakers</td>
+					</tr>
+				</table>
+			</div>
+		</div>-->
+		
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><!--<br>--><br>
+		<div class="speakers home">
+			<div style="width:50%; margin:0 auto;">
+				<h2>***Event4****</h2>
+				<h2><TAGLINE></h2>
+				<hr>
+				<div class="date">
+					<span class="text"><b>03 April 2014</b><span>
+				</div>
+				<div class="place">
+					<span class="text"><b>San Francisco</b><span>
+				</div>
+				<div class="button text cursor">
+					<button class="button cursor">Get Tickets</button>
+				</div>
+				
+			</div>
+		</div>
+		
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><!--<br>--><br>
+		<div class="sponsors home">
+			<div class="intro"style="width:70%">
+				<h2>Sponsors</h2>
+				<!--<h2>The Challenges of Business Innovation</h2>-->
+				<hr>
+				
+			</div>
+		</div>
+		
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><!--<br>--><br>
+		<div class="speakers home" style="height:1300px;">
+			<div class="intro"style="width:70%">
+				<h2>Past Events</h2>
+				<!--<h2>The Challenges of Business Innovation</h2>-->
+				<hr>
+				<div class="each_event">
+					<img src="events.png">
+				</div>
+				
+				<div class="each_event">
+					<img src="events.png">
+				</div>
+				
+				<div class="each_event">
+					<img src="events.png">
+				</div>
+				
+				<div class="each_event">
+					<img src="events.png">
+				</div>
+				
+				<div class="each_event">
+					<img src="events.png">
+				</div>
+				
+				<div class="each_event">
+					<img src="events.png">
+				</div>
+			</div>
+		</div>
+		
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><!--<br>--><br>
+		<div class="sponsors home">
+			<div class="intro"style="width:70%">
+				<h2>RSVP</h2>
+				<!--<h2>The Challenges of Business Innovation</h2>-->
+				<hr>
+				<div class="rsvp_next_event">
+					<p>RSVP for our next event. See you soon!<p>
+					<div class="cursor">
+					<button class="button cursor">Get Tickets</button>
+					</div>
+				</div>
+				
+				<div class="subscribe">
+					<p>Subscribe to get news on all upcoming events </p>
+					<br>
+					<input type="text" class="textbox" placeholder="Enter email address"/>
+					<br><br>
+					<button class="button cursor">Subscribe</button>
+				</div>
+			</div>
+		</div>

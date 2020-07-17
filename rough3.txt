@@ -1,0 +1,33 @@
+<br><br><br>
+			<h1>Login for your specific event</h1>
+			<br><br><br>
+			<div class="the_form">
+				<form method="post" action="login_check_details.php">
+					<div class="colspan-25">
+						<p>Enter your id</p>
+					</div>
+					<div class="colspan-75">
+						<span>*</span><input type="text" name="admin_id" placeholder="Your full name" maxlength="20" required></input>
+					</div>
+					<div class="clearfix"></div>
+					<br><br><br><br>
+					
+					<div class="colspan-25">
+						<p>Select the event</p>
+					</div>
+					<div class="colspan-75">
+						<span>*</span>
+						<select name="event"required>
+							<option>Event1</option>
+							<option>Event2</option>
+							<option>Event3</option>
+							<option>Event4</option>
+						</select>
+					</div>
+					
+					<div class="clearfix"></div>
+					<br><br><br><br>
+					
+					<input type="submit" style="width:25%; margin:0 auto; height:50px;"></input>
+				</form>
+			</div>

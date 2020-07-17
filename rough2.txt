@@ -1,0 +1,12 @@
+ALTER TABLE events
+ADD PRIMARY KEY (admin_id);
+
+ALTER TABLE participants
+ADD FOREIGN KEY (event_id) REFERENCES events(event_id);
+
+ALTER TABLE participants
+MODIFY COLUMN participant_id AUTO_INCREMENT;
+
+UPDATE participants
+SET participant_id=participant_id+1
+

@@ -1,0 +1,13 @@
+UPDATE admin SET rank="senior" WHERE admin_id LIKE 'SG%'
+
+ALTER TABLE admin MODIFY rank varchar(20)
+
+UPDATE admin SET rank="assisstant" WHERE admin_id="OG%"
+
+UPDATE admin
+SET rank="senior"
+WHERE admin_id="SG%"
+
+UPDATE admin SET rank="HOD" WHERE admin_id="SG456"
+
+SELECT * FROM `staff` WHERE event_id='E1';
